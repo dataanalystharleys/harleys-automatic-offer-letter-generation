@@ -5,4 +5,7 @@ __pycache__/
 .streamlit/
 test_output*
 test_gen*
+test_appointment*
+appointment_inspection*
+appointment_runs*
 *.tmp
